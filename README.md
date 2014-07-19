@@ -8,7 +8,7 @@ To use this utility type `python jaalee_rename.py NEWNAME`. If you have changed 
 
 In order to use this, I recommend that you copy the code and simply paste it into the control when you are prompted for the new code.
 
-The instructions below for changing the local name value where taken from this page, which has lots of useful information.
+The instructions below for changing the local name value where taken from [this page](http://www.bluetoothmonkey.com/2014/06/ib004-jaalee-beacon-configuration-and.html), which has lots of useful information.
 
 
 
